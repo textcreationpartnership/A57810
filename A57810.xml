@@ -1,0 +1,661 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maromah, the Lord of Rome the Antichrist, finally and fully discover'd his name and the number of his name, hitherto wonderfully hid in the words of Solomon and Isaiah, but now reveal'd beyond all scruple and doubt : to the most seasonable comfort of all the faithful, to the everlasting confusion of Pope and popish ministers, to the vindication, praise and encouragement of all Protestant witnesses, peculiarly [sic] the happy discoverers of the late most horrid Popish Plot : being a second sermon on Prov. XIV. 25, preacht in Istleworth Church on Novemb. 16, 1679 / by William Ramsay, B.D. ...</title>
+            <author>Ramsay, William, B.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57810</idno>
+            <idno type="STC">Wing R217</idno>
+            <idno type="STC">ESTC R10342</idno>
+            <idno type="EEBO-CITATION">12644334</idno>
+            <idno type="OCLC">ocm 12644334</idno>
+            <idno type="VID">65085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65085)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 774:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Maromah, the Lord of Rome the Antichrist, finally and fully discover'd his name and the number of his name, hitherto wonderfully hid in the words of Solomon and Isaiah, but now reveal'd beyond all scruple and doubt : to the most seasonable comfort of all the faithful, to the everlasting confusion of Pope and popish ministers, to the vindication, praise and encouragement of all Protestant witnesses, peculiarly [sic] the happy discoverers of the late most horrid Popish Plot : being a second sermon on Prov. XIV. 25, preacht in Istleworth Church on Novemb. 16, 1679 / by William Ramsay, B.D. ...</title>
+                  <author>Ramsay, William, B.D.</author>
+                  <author>Ramsay, William, B.D. Mirmah, Maromah, Maroum.</author>
+               </titleStmt>
+               <extent>[6], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.A. for Benj. Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Appears also in his Mirmah, Maromah, Maroum. London, 1680.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Bible. --  O.T. --  Proverbs XIV, 25 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65085:1"/>
+            <pb facs="tcp:65085:1" rendition="simple:additions"/>
+            <p>
+               <hi>Maromah.</hi> The LORD of ROME THE ANTICHRIST, Finally and fully Diſcover'd: His NAME and
+the NUMBER of his Name, hitherto wonderfully Hid in the words of <hi>SOLOMON</hi> and
+<hi>ISAIAH,</hi> but now Re<g ref="char:EOLhyphen"/>veal'd beyond all Scruple and Doubt: To the moſt Seaſon<g ref="char:EOLhyphen"/>able
+Comfort of all the Faithful: To the everlaſting Confu<g ref="char:EOLhyphen"/>ſion of POPE and Popiſh Miniſters: To
+the Vindication, Praiſe and Encouragement of all PROTESTANT WITNESSES, peculiarly the Happy
+DISCOVERERS OF THE LATE MOST <hi>Horrid Popiſh Plot,</hi> BEING A SECOND SERMON On PROV. xiv.
+25.</p>
+            <p>Preacht in <hi>Iſtleworth</hi> Church, on <hi>Novemb.</hi> 16. 1679.</p>
+            <p>By <hi>WILLIAM RAMSAY,</hi> B. D. Lecturer in <hi>Iſtleworth,</hi> Chap<g ref="char:EOLhyphen"/>lain to the Right
+Honourable <hi>Thomas</hi> Lord <hi>Butler</hi> Earl of <hi>Oſſory,</hi> &amp;c.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. xiv. 25.</hi>
+               </bibl>
+               <p>
+                  <hi>The Original of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ue.</hi> The Witneſs
+of Truth delivereth Souls: But the Lord of <hi>Rome</hi> ſpeaketh lies.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. A.</hi> for <hi>Benj. Billingſley</hi> at the
+Printing-Preſs within the South-weſt <hi>Piazza</hi> of the <hi>Royal Exchange</hi> in
+<hi>Cornhill,</hi> 1680.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:65085:2"/>
+            <pb facs="tcp:65085:2"/>
+            <head>TO THE Right Reverend Father in GOD, THE RIGHT HONOURABLE HENRY, Lord Biſhop of
+<hi>LONDON,</hi> One of his Majeſties moſt Honourable Privy Council, <hi>&amp;c.</hi> Health
+and Happineſs from the LORD JESUS CHRIST.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>TO publiſh this to the World, to pre<g ref="char:EOLhyphen"/>ſent it to your Lordſhips hands, and by your hands to
+the Church, is a Duty of ſuch Exigency, that to ſeek leave to do it,
+<pb facs="tcp:65085:3"/> or to make Apology for it, were as great a Folly, as to omit it were a Crime. For I
+preſent nothing of my own, (all that, if any thing, is nothing worth:) but I pre<g ref="char:EOLhyphen"/>ſent what God
+in great Wiſdom for ma<g ref="char:EOLhyphen"/>ny Ages laid up in the inmoſt Treaſury of his Prophets, peculiarly, of
+<hi>Solomon</hi> and <hi>Iſaiah;</hi> and what now in good Pro<g ref="char:EOLhyphen"/>vidence he hath diſcover'd in
+the Very ſeaſon of Time. The Diſcovery is his own, and nothing is owing to me, but I am an
+hundred fold more than before indebted to his Fatherly Goodneſs, whereof this is not the firſt
+Experiment of a Thouſand. My Lord, however this may appear at pre<g ref="char:EOLhyphen"/>ſent; I dare here engage my
+Reputation for ever (which is the greateſt Engage<g ref="char:EOLhyphen"/>ment can be expected) that in a ſhort time
+this will appear to be of God in<g ref="char:EOLhyphen"/>deed, and every man that knoweth the
+<pb facs="tcp:65085:3"/> terms of this Diſcourſe, will judge it a vain thing to ſeek any other Account of
+the Name or Number of the Beaſt. This is the End of that Great Controverſie of the
+Antichriſt, <hi>Who he is:</hi> and I hope may prove an effectual end of all Controverſie
+between Proteſtant and Pa<g ref="char:EOLhyphen"/>piſt. It is the Key of all the Prophe<g ref="char:EOLhyphen"/>cies concerning Antichriſt,
+and for ought I know, may ſerve to open all thoſe My<g ref="char:EOLhyphen"/>ſteries of Scripture, Old and New, which
+are yet lockt up. Sure I am it will be very comfortable, profitable, and of preſent uſe to the
+Whole Church. I have a greater and fuller Demonſtration of this to make in my next Diſcourſe.
+But I would diſco<g ref="char:EOLhyphen"/>ver the Whole in the ſame Order to others, as God has choſen to diſcover
+it to me. And I deſire the help of all my Fellow-labourers in the Vineyard of Jeſus
+<pb facs="tcp:65085:4"/> Chriſt; and in the firſt place the Bleſſing of God, and the aſſiſtance
+of the Great Witneſs of Truth, by your Lordſhips Pray<g ref="char:EOLhyphen"/>er and Interceſſion for</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>
+                  <hi>Your Obedient Servant in Jeſus Chriſt,</hi> William Ramſay.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65085:4"/>
+            <head>A SERMON PREACHED <hi>Novemb.</hi> 16. 1679.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. xiv. 25.</hi>
+                  </bibl>
+                  <p>A true Witneſs delivereth Souls: but A deceitful Witneſs ſpeaketh lies.</p>
+               </q>
+            </epigraph>
+            <p>THe Text contains two propoſitions. The firſt, a Character of a <hi>True Witneſs. A True
+Witneſs delivereth ſouls.</hi> The ſecond, a Character of a <hi>Deceitful Witneſs, A
+Deceitful Wit<g ref="char:EOLhyphen"/>neſs ſpeaketh lies.</hi> In a late diſcourſe we ſhewed theſe Characters
+to be very proper; and that they are Prophetical as well as Proverbial: The firſt containing a
+Prophecy of Jeſus Chriſt, of <hi>Hed-emeth, the</hi> Great <hi>Witneſs of Truth,</hi> whoſe
+Office was to <hi>deliver Souls.</hi> The ſecond contain<g ref="char:EOLhyphen"/>ing a diſtinct Prophecy of the Great
+Witneſs of <hi>Deceit,</hi> of Antichriſt, who, in direct oppoſition
+<pb n="2" facs="tcp:65085:5"/> to Chriſt, comes and is come to <hi>deſtroy ſouls with lies.</hi> We
+aſſerted alſo that the Hebrew Word, which in the text is rendred <hi>A Deceitful
+Witneſs,</hi> doth plainly, literally and grammatically ſignifie <hi>The Lord of Rome.</hi> So
+that the whole text is to be rendered thus <hi>verbatim</hi> according to the Hebrew. <hi>The
+Witneſs of Truth delivereth Souls; but the Lord of Rome ſpeaketh lies.</hi> This thing I onely
+toucht oc<g ref="char:EOLhyphen"/>caſionally in that diſcourſe, my deſign then be<g ref="char:EOLhyphen"/>ing to juſtifie the Character
+and prophecy of the Witneſs of Truth; which having done, I think it neceſſary by a peculiar
+diſcourſe to clear that Aſſertion; both for mine own ſake, becauſe it is my
+Aſſertion, and I think aſſerted by none before: and alſo for your ſake, that they whom
+I ſuppoſe to deſire more certain knowledge of the truth of that Aſſertion, may, as much
+as lieth in me, be fully ſatisfied therein: But chiefly for the Truth's ſake, which hereby will
+greatly be advantag'd; when the falſe Witneſs ſhall be found ſo diſtinctly reveal'd. For
+if we can make it plain, that the Holy Ghoſt has couch<g ref="char:EOLhyphen"/>ed this Truth in this Proverb, and has by
+the pen of <hi>Solomon</hi> diſtinctly nam'd <hi>the Lord of Rome</hi> as <hi>the Deceitful
+Witneſs that ſpeaketh lies,</hi> and that in direct oppoſition to <hi>the Witneſs of Truth
+that delivereth Souls;</hi> if this be made plain,
+<pb n="3" facs="tcp:65085:5"/> it will put an end to all Controverſies between other Churches and
+<hi>Rome.</hi> For the Lord of <hi>Rome</hi> will not only forfeit his Infallibility, that great
+Shield of his Papacy and Supremacy; but the World too will deny him to be the Vicar of Chriſt,
+and will look upon him as the Great Antichriſt, and, next to Satan, <hi>the Father of lies.</hi>
+This will certainly come to paſs, if men can once read in expreſs terms of <hi>Solomon,</hi>
+that as <hi>the true Witneſs,</hi> which is Chriſt, <hi>delivereth Souls;</hi> ſo <hi>the
+Lord of Rome ſpeaketh lies.</hi> Now this, with the help of That <hi>True Witneſs,</hi> we
+ſhall ſhew undeniably, not conjecturally, to be the expreſs terms of <hi>Solomon,</hi>
+expreſt with all the Circum<g ref="char:EOLhyphen"/>ſtances of Wiſdom and Truth that became that Spirit by which
+<hi>Solomon</hi> wrote or ſpoke. To the full proof whereof, premiſe we,</p>
+            <p n="1">1. That though the Diſcovery be clear and evident to thoſe that can be brought to
+under<g ref="char:EOLhyphen"/>ſtand, yet it muſt not neceſſarily be evident to all that hear; for all that hear
+cannot be brought to underſtand. So the Diſcovery of the New World of <hi>America</hi> was
+preſently evi<g ref="char:EOLhyphen"/>dent to all that <hi>Columbus</hi> could bring thither to ſee that World; but
+moſt of other men, who would not go to ſee it, would not preſently believe it; but now that
+ſo many have ſeen
+<pb n="4" facs="tcp:65085:6"/> it, I think almoſt all men believe it. So I ſhall do my endeavour to bring
+men to the knowledge of this Truth, that by their own underſtanding it may be evident to them, as
+it is evident to me; and when it is evident to Many, the reſt will believe as they ought.</p>
+            <p n="2">2. When the thing is diſcover'd, it will be certain and evident, as we have juſt now
+ſaid: but the Diſcovery muſt not be eaſie nor ob<g ref="char:EOLhyphen"/>vious, nor therefore to be rejected
+becauſe ne<g ref="char:EOLhyphen"/>ver yet made. This is plain in reſpect of all Prophecies, as Chriſt obſerv'd to
+his Apoſtles, <hi>Mat.</hi> 24.15. ſpeaking of <hi>Daniels</hi> Prophecy of the <hi>Abomination
+of deſolation; Whoſo readeth,</hi> ſaith Chriſt, <hi>let him underſtand.</hi> As if
+Chriſt had ſaid, Many have read that Prophecy, and you have read it, but who hath underſtood
+it? None; but I tell ye now plainly, that it is the utter Deſtruction of <hi>Jeruſalem,</hi>
+which you ſhall live to ſee. Even ſo; many have read this Pro<g ref="char:EOLhyphen"/>phecy of <hi>Solomon,</hi> but
+it follows not that any hath underſtood it, till the appointed time, which I ſhall ſhew ye,
+is now. But this Pro<g ref="char:EOLhyphen"/>phetical obſcurity is moſt peculiar to our caſe, which contains the
+Diſcovery of the Name of Antichriſt, and of the Number of his Name. For of this very thing, it
+is written by the Pro<g ref="char:EOLhyphen"/>phet
+<pb n="5" facs="tcp:65085:6"/> himſelf, who ſpeaks moſt of this matter, <hi>Rev.</hi> 13.18. <hi>Here is
+wiſdom,</hi> ſays the Great Prophet <hi>John. Let him that hath underſtanding count the
+Number,</hi> &amp;c. Beloved, be ye ſo far from expecting ſomething obvious to every man that
+readeth; that rather reject ye this Aſſertion, if ye find not both Wiſdom and
+Un<g ref="char:EOLhyphen"/>derſtanding in it; yet not my wiſdom, or the wiſdom of man; but the wiſdom of the Holy
+Ghoſt, who knew how to couch ſo valuable a Prophecy under the contemptible covert of a ſingle
+term of <hi>Solomon:</hi> And now to diſcover it by a contemptible Inſtrument, when the very
+time calls for it. Nay, not the Wiſdom only, but the Goodneſs of God is apparent in theſe
+long concealments of prophetical Truths, and the open Revelation of them in their proper times. For
+inſtance, had <hi>Solomon</hi> writ in vul<g ref="char:EOLhyphen"/>gar and obvious terms, that <hi>the Lord of Rome
+ſpeaketh lies;</hi> Then had <hi>Solomon</hi>'s Books at leaſt, if not all the old Scriptures,
+been burnt by the Lords of <hi>Rome,</hi> without ſome extraordinary Miracles of preſervation,
+which did not ſo be<g ref="char:EOLhyphen"/>come divine Wiſdom, who knew how to order the matter better without them.
+Again, had <hi>Solomon</hi> writ this in terms obvious to every Reader, or had it been diſcover'd
+before the
+<pb n="6" facs="tcp:65085:7"/> time; then ſuch Lords of <hi>Rome</hi> as have been Witneſſes of Truth,
+had been branded with an undue Character: Now then is the time, that this Prophecy ſhould be
+diſcover'd, and firſt here in <hi>England;</hi> for here firſt, by the moſt wonderful
+Diſcoveries that ever were made in the world, the Lord of <hi>Rome</hi> appears to be indeed,
+that Great <hi>Witneſs of deceit</hi> who <hi>ſpeaketh lies,</hi> and by Lies deſtroyeth
+thoſe Souls which the great Witneſs of Truth came to deliver.</p>
+            <p>Proceed we directly to the Diſcovery. The thing to be diſcovered lyes hid in the Hebrew
+term, which in the Text is render'd <hi>A deceitful Witneſs.</hi> The Hebrew term is in the
+firſt Ori<g ref="char:EOLhyphen"/>ginal written with theſe four letters onely, <hi>M. R. M. H:</hi> Now the Hebrews,
+till above four hundred years after Chriſt, writ no Vow<g ref="char:EOLhyphen"/>els in their words, as <hi>a, e, i,
+o,</hi> or <hi>u,</hi> but writ the Conſonants only, and underſtood the Vow<g ref="char:EOLhyphen"/>els. Which Cuſtom
+of that Language God himſelf was the Author of, when he gave his Law to <hi>Moſes</hi> written
+without diſtinction of Vowels: and I cannot doubt but the Divine Wiſdom appointed it ſo, to
+this very end, that many things and prophecies might lye hid in that obſcure Writing, till a
+proper time to be diſcover'd. And ſo it came to paſs; for the
+<pb n="7" facs="tcp:65085:7"/> Chriſtians, diſcovering daily more and more teſtimonies of the Truth from
+the Old Scrip<g ref="char:EOLhyphen"/>tures, and confounding the obſtinate <hi>Jews</hi> with their own writings; the
+<hi>Maſorethans,</hi> that they might either change or obſcure ſuch places in Scripture as
+plainly made for the Chriſtians againſt them, found out this trick of writing Vowels, [which
+however in it ſelf a perfecti<g ref="char:EOLhyphen"/>on of writing, yet was in them but a trick of corrupting]: and
+ſeveral places, which they could not corrupt, they utterly rejected, even the whole Book of
+<hi>Daniel;</hi> and conſulted to ſerve <hi>Iſaiah</hi> ſo, but publick ſhame could not
+permit that. But Prophecies of the nature of the Text, which lay hid in cloſe Coverts of words
+admitting another vulgar ſence, as this word <hi>Mirmah</hi> doth; ſuch they could not at<g ref="char:EOLhyphen"/>tempt
+to change; for they could not ſuſpect any prophecy in them: and I know there are more in the
+Scripture, and there may be many more which I know not, in which the Wiſ<g ref="char:EOLhyphen"/>dom of God ſhines
+wonderfully to him that underſtandeth, and his gracious Providence to preſerve his Truth from
+them that would ſup<g ref="char:EOLhyphen"/>preſs it utterly, were it in their skill and pow<g ref="char:EOLhyphen"/>er. Theſe
+<hi>Maſorethans</hi> added their points and vowels to all the Words, of the Old Teſta<g ref="char:EOLhyphen"/>ment,
+<pb n="8" facs="tcp:65085:8"/> 
+               <hi>Ann. Chr.</hi> 479. twelve hundred years agoe at the moſt. From this,</p>
+            <p>'Tis plain, that the Vowels of this word <hi>Mirmah</hi> are not of Divine Authority, unleſs
+we have other authority than that of the Maſore<g ref="char:EOLhyphen"/>thans. But the Letters of the word being
+ori<g ref="char:EOLhyphen"/>ginally written by <hi>Solomon</hi> are of Divine Au<g ref="char:EOLhyphen"/>thority, that is, <hi>M. R. M. H:</hi>
+which Letters according to the exact analogy of the Hebrew reading, make the entire word of
+<hi>Maromah,</hi> of which <hi>Mirmah</hi> is only a contraction: for the Word <hi>Maromah</hi>
+gives every letter its Vowel; but the word <hi>Mirmah</hi> caſts out the middle-vowel,
+<hi>O,</hi> from the letter <hi>R,</hi> and for the long vowel, <hi>A,</hi> puts the ſhort vowel
+<hi>i,</hi> and ſo draws together three Syllables into two; <hi>Maromah</hi> in<g ref="char:EOLhyphen"/>to
+<hi>Mirmah.</hi> So that the whole difference is from the Vowels only, which, as all confeſs, are
+not Divine Scripture. If then the Letters, which are certainly of Divine authority, con<g ref="char:EOLhyphen"/>tain in
+them a more profitable Truth, than what is expreſt by the Maſorethans pointing of it; and if
+that Truth be plainly confirm'd by other Scriptures; then without all doubt we ought to embrace
+that Truth, and to uſe the words of the Holy Ghoſt to the greateſt ad<g ref="char:EOLhyphen"/>vantage of it. So,
+ſeeing the Scripture of the
+<pb n="9" facs="tcp:65085:8"/> Holy Ghoſt is really and literally <hi>Maromah</hi> as well as
+<hi>Mirmah,</hi> we may read <hi>Maromah</hi> as well as <hi>Mirmah;</hi> yea, rather
+<hi>Maromah</hi> than <hi>Mirmah,</hi> if <hi>Maromah</hi> be more ſignificant and conform to the
+Holy Ghoſt in the other Scriptures, as we ſhall ſhew it is. We reject not the word
+<hi>Mir<g ref="char:EOLhyphen"/>mah;</hi> no; But</p>
+            <p>We preferre the Word <hi>Maromah,</hi> for reaſons to be given: and we retain the word
+<hi>Mirmah,</hi> which in its vulgar uſe ſignifies <hi>Deceit;</hi> and ſo was a moſt fit
+word to conceal the Prophecy included in <hi>Maromah,</hi> which <hi>Mirmah</hi> too includes in
+its radical ſignification; yea, is the ſame Word eſſentially with <hi>Maromah,</hi> and is
+the ſame word, letter for letter, in the Original writing of <hi>Solomon,</hi> which was the
+writing of the Holy Ghoſt: It was neceſſary then it ſhould be read <hi>Mirmah,</hi> till
+the diſcovery of the Prophecy of <hi>Maromah</hi> contained in it. But when the Kernel muſt be
+produced, then the Shell muſt be bro<g ref="char:EOLhyphen"/>ken. Then leave we <hi>Mirmah</hi> as the Shell; and prove
+we the property of <hi>Maromah.</hi>
+            </p>
+            <p>
+               <hi>Maromah,</hi> literally and grammatically, accor<g ref="char:EOLhyphen"/>ding to exact Lexico-graphy and Etymology
+of the Hebrew tongue; and which is more, accor<g ref="char:EOLhyphen"/>ding to the ſtyle of the Prophets, Old and New,
+ſignifies <hi>the Lord of Rome.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:65085:9"/>I will firſt prove the grammatical, and then the prophetical ſignification
+of the Word. The Grammatical ſignification is apparent three wayes; all as plain as Grammatical
+things can be, only, as was premiſed, it muſt not be Ob<g ref="char:EOLhyphen"/>vious to Every Grammarian, nor to be
+read in the School-Dictionary; for then where's the Myſtery? of which it is ſaid, <hi>Let him,
+that read<g ref="char:EOLhyphen"/>eth, underſtand. And here is Wiſdom. And let him, that underſtandeth, count the
+Number,</hi> &amp;c. But you ſhall ſee the Wiſdom of God ſhine out from a ſingle word;
+even from this word of <hi>Maromah.</hi> Only have patience, and deſpiſe not ſmall things,
+which the wiſe God makes choice of to confound the things that are great.</p>
+            <p>And firſt, to foreſhew <hi>the Lord of Rome,</hi> which is ſpiritually <hi>Babylon,</hi>
+the Spirit would uſe a <hi>Ba<g ref="char:EOLhyphen"/>bylonian</hi> word; for <hi>Maromah</hi> is an Hebrew word in the
+Babylonian Dialect; for <hi>Mar,</hi> ſays <hi>Bux<g ref="char:EOLhyphen"/>torfius,</hi> is <hi>Vox babylonica,</hi> and
+ſignifies a <hi>Supreme Lord,</hi> and is often uſed by the Rabbies, ſayes the ſame
+<hi>Buxtorfius,</hi> for <hi>Bahal,</hi> or <hi>Adon:</hi> and not only by the Rabbies, but by the
+Holy Ghoſt too, both in the Old and New Prophets, <hi>Dan.</hi> 2.47. <hi>Maremalchin,</hi> a
+Babylonian word, for <hi>the Lord of Kings,</hi> 1 Cor. 16.22. <hi>Maranatha,</hi> a Ba<g ref="char:EOLhyphen"/>bylonian
+word, for <hi>the Lord cometh:</hi> Even ſo
+<pb n="11" facs="tcp:65085:9"/> 
+               <hi>Maromah,</hi> for <hi>the Lord of Rome.</hi> For <hi>Rome</hi> is
+Ori<g ref="char:EOLhyphen"/>ginally a Hebrew word, and the Hebrews have no other word for <hi>Rome,</hi> but <hi>Roum</hi>
+in the He<g ref="char:EOLhyphen"/>brew Dialect, and <hi>Romah</hi> in the Babylonian or Chaldaick dialect, whence comes the
+Greek word <hi>Romη,</hi> with an η in the end; which an<g ref="char:EOLhyphen"/>ſwers the Hebrews <hi>He;</hi>
+and from the Greek came the Latin word, by turning η into <hi>a,</hi> as in <hi>cena,
+muſa,</hi> and a thouſand ſuch. Indeed the Greek and Latin tongues come originally from the
+Hebrew, as <hi>Arpenius</hi> has learnedly ſhown; but eſpecially this word <hi>Rome</hi> came
+from the Hebrew, as will better appear by the conſide<g ref="char:EOLhyphen"/>ration of the Hebrew, <hi>Roum,</hi> which
+you may ſee in every Lexicon.</p>
+            <p>
+               <hi>Roum</hi> is an Hebrew Verb, and ſignifies to be High and exalted, or to exalt Ones-ſelf
+in place, power, and pride, or to uſurp high and great things, chiefly indeed it is ſpoken of
+the exaltation of God above all, as <hi>Pſal.</hi> 46.10. <hi>Know that I am God,</hi> ſays the
+Lord; <hi>I will be exalted among the Heathen, I will be exalted in the earth. Aroum baggojim,
+aroum baarets.</hi> But ſecon<g ref="char:EOLhyphen"/>darily, the word is uſed, for the pride, ambi<g ref="char:EOLhyphen"/>tion and
+uſurpation of men, as we ſhall ſee. From the Verb <hi>Roum</hi> come the Subſtantives,
+<hi>Roum,</hi> and <hi>Romah;</hi> both which ſignifie Height
+<pb n="12" facs="tcp:65085:10"/> in place, power, or pride, from which certain<g ref="char:EOLhyphen"/>ly comes the name of the City of
+<hi>Rome.</hi> From the ſame Verb you have alſo <hi>Maroum,</hi> which is the principal Word we
+look for, and you have it in every Hebrew Lexicon. See <hi>Buxtorfius</hi> in the Radix
+<hi>Roum.</hi> Now the com<g ref="char:EOLhyphen"/>monly receiv'd ſignification of <hi>Maroum,</hi> in the Lexicons, is,
+<hi>The high One</hi> of the Earth, or <hi>the High thing</hi> of the Earth; to which if ye joyn
+the firſt Etymology, in which is ſhewn that <hi>Mar</hi> is an uſual term for <hi>Lord;</hi>
+then it will appear plainly that <hi>Maroum,</hi> as <hi>Maromah,</hi> ſig<g ref="char:EOLhyphen"/>nifies literally and
+grammatically <hi>the Lord of Rome.</hi> For as it appears in <hi>Buxtorfius,</hi> in the Radix
+<hi>Roum,</hi> that the Subſtantives <hi>Roum,</hi> and <hi>Romah,</hi> are all One; ſo it
+muſt needs be equally plain, that <hi>Maroum,</hi> and <hi>Maromah,</hi> are all One.</p>
+            <p>But if ye ask, which of theſe is the proper and Original Word? <hi>Maroum</hi> certainly with
+<hi>Vau-cholam,</hi> is the Original Hebrew word in the Hebrew dialect; and <hi>Maromah</hi> in the
+Chal<g ref="char:EOLhyphen"/>dean or Babylonian dialect. The Pronuncia<g ref="char:EOLhyphen"/>tion of <hi>Vau-cholam</hi> is certainly very hard,
+and I think quite loſt among the Hebrews themſelves: but as for the Greeks and Latins, who have
+no <hi>Vau-cholam</hi> in their Language, neither can
+<pb n="13" facs="tcp:65085:10"/> pronounce it; the Greeks are forced to take an η in the end, and for
+<hi>Roum</hi> ſay <hi>Romη:</hi> the Latins take an <hi>a,</hi> and ſay <hi>Roma;</hi> the
+Engliſh take an <hi>e quieſcent</hi> and ſay <hi>Rome.</hi> And all be<g ref="char:EOLhyphen"/>cauſe of the
+difficulty of pronouncing <hi>Vau-cho<g ref="char:EOLhyphen"/>lam</hi> in the word <hi>Roum,</hi> or rather <hi>Rovm.</hi>
+After the ſame manner the Original Word, <hi>Maroum,</hi> with <hi>Vau-cholam,</hi> is after the
+Greek faſhion, <hi>Maromeh;</hi> after the Latin, <hi>Maromah;</hi> after the Engliſh,
+<hi>Marome,</hi> with an <hi>e quieſcent;</hi> all which alters not the ſignification of the
+word, but the pronunciation of it only. So <hi>homo</hi> in Latine is made <hi>huomo</hi> in
+Italian, <hi>Hombre</hi> in Spaniſh, <hi>un homme</hi> in French, yet all are Originally the
+ſame word with <hi>homo,</hi> a man. Much more eaſie is it to conceive <hi>Maroum</hi> and
+<hi>Maromah,</hi> to be the ſame word in the Hebrew tongue, which counts not the difference of
+Vowels, nor of ac<g ref="char:EOLhyphen"/>cidental, but chiefly of eſſential or radical let<g ref="char:EOLhyphen"/>ters. For which,</p>
+            <p>Obſerve, that the Radix <hi>Roum</hi> has two cog<g ref="char:EOLhyphen"/>nate and collateral Radixes, one on one
+ſide, and the other on the other: That is, <hi>Marah</hi> and <hi>Ramah. Marah</hi> with an
+<hi>Aleph,</hi> whence comes <hi>Mar</hi> a Lord, or one that exalts himſelf, has the ſame
+ſignification with <hi>Roum, to exalt it ſelf:</hi> but <hi>Marah</hi> with an <hi>He,</hi>
+ſignifies to Rebell,
+<pb n="14" facs="tcp:65085:11"/> which is a thing conſequent to pride. <hi>Ramah</hi> is of the ſame
+radical letters with <hi>Roum,</hi> only <hi>He</hi> in the end is put for <hi>Vau</hi> the middle;
+which, as we ſhewed, is an uſual thing; and <hi>Ramah</hi> ſigni<g ref="char:EOLhyphen"/>fies to <hi>deceive;</hi>
+and thence comes <hi>Remijah</hi> and <hi>Mir<g ref="char:EOLhyphen"/>mah,</hi> Deceit; So that however the words be
+ta<g ref="char:EOLhyphen"/>ken; whether <hi>Roum</hi> or <hi>Romah;</hi> whether <hi>Mirmah, Maroum,</hi> or
+<hi>Maromah;</hi> whether from <hi>Marah, Roum</hi> or <hi>Ramah;</hi> take the words as you will,
+it ſtill will appear, that God has lodg'd the Myſtery of <hi>Rome,</hi> and of the Lord of
+<hi>Rome</hi> in theſe words, which ſignifie Pride, Rebellion, Uſurpation and Deceit, the
+certain diſtinctive Characters of that proud City, and of the lofty Lord that rules therein, who
+has deceiv'd the Nations with his Lies. This then is the plain iſſue of this long Grammatical
+diſcourſe, that the word of the Text, which is render'd <hi>a Deceitful Witneſs,</hi> is
+literally and grammatically to be render'd <hi>Ma<g ref="char:EOLhyphen"/>roum</hi> or <hi>Maromah,</hi> that is, <hi>the
+Lord of Rome.</hi>
+            </p>
+            <p>Thus much for the Grammatical; come we now to the Prophetical property, uſe and
+ſig<g ref="char:EOLhyphen"/>nification of this word. And firſt, Obſerve: That the Word <hi>Mirmah,</hi> though it
+ſignifies in its common uſe, <hi>Deceit, in genere,</hi> yet the Scriptures uſe it not, but
+where Antichriſt is foretold or ſpoken of; which argues the peculiar applica<g ref="char:EOLhyphen"/>tion
+<pb n="15" facs="tcp:65085:11"/> of that word to that purpoſe. Beſides the Text, I have noted ſix places
+in this Book of the <hi>Proverbs,</hi> where <hi>Solomon</hi> uſeth this word, and they have all
+a peculiar application to <hi>the Deceitful Witneſs, Antichriſt,</hi> as the Text hath. The
+like may be obſerved in the other Books, as <hi>Pſal.</hi> 5.6. <hi>Thou ſhalt deſtroy them
+that ſpeak leaſing: the Lord ſhall deſtroy the bloody and deceit<g ref="char:EOLhyphen"/>ful man.</hi> The Word is
+<hi>Mirmah</hi> or <hi>Maromah.</hi> And Pſal. 10.7. <hi>His mouth is full of curſing, and
+de<g ref="char:EOLhyphen"/>ceit, and fraud.</hi> The Word again is <hi>Mirmah</hi> or <hi>Maromah.</hi> And theſe places
+mean plainly of Antichriſt. But where the place is not appli<g ref="char:EOLhyphen"/>cable to the deceit of Antichriſt,
+there Deceit is not expreſt by the Word <hi>Mirmah,</hi> but by <hi>Remijah, toke,</hi> or ſome
+other word.</p>
+            <p>But for the Prophetical uſe of this word, we have undeniable Authority in the Prophet
+<hi>Iſaiah,</hi> in the 24<hi rend="sup">th,</hi> 25<hi rend="sup">th,</hi> and 26<hi rend="sup">th,</hi> Chapters: In which the Prophet foretells
+the Judgement of God upon <hi>Rome,</hi> calling the <hi>Romans,</hi> chap. 24.4. <hi>The haughty
+people of the earth.</hi> The Hebrew word is, <hi>Meroum ham haärets;</hi> that is, The
+<hi>Ma<g ref="char:EOLhyphen"/>romah</hi> people of the earth, or the People of <hi>Maroum</hi> or <hi>Maromah, The Lord of
+Rome:</hi> or it may be render'd, <hi>the Maroum</hi> of the people of the earth, that is, the
+<hi>Roman Lord</hi> of the people
+<pb n="16" facs="tcp:65085:12"/> of the earth, or the Supreme Lord of the Peo<g ref="char:EOLhyphen"/>ple of the earth. For we ſhewed
+that <hi>Maroum</hi> is the true Original writing, or pronunciation of the Word: And <hi>v.</hi>
+21. <hi>It ſhall come to paſs, in that day, that the Lord ſhall puniſh the hoſt of the
+High ones that are on high, and the Kings of of the earth upon the earth.</hi> The Hebrew calls it
+<hi>Zeba hammaroum bammaroum,</hi> that is, <hi>verbatim, The hoſt of the high One in the high
+One;</hi> he will puniſh <hi>Maroum</hi> in <hi>Maroum,</hi> that is, <hi>the Lord of Rome in his
+own perſon;</hi> or, he will puniſh the high Lord of <hi>Rome</hi> in the high City of
+<hi>Rome,</hi> and all the Kings of the earth that join with him; and Chap. 26.5. <hi>He bringeth
+down them that dwell on high, the lofty City he layeth it low.</hi> The Hebrew is,
+<hi>Joſhebë Maroum, the inhabitants of Maroum,</hi> that is, the people of the Lord of
+<hi>Rome,</hi> or the people of the high or proud City of <hi>Rome.</hi> Then <hi>Maroum</hi> is a
+prophetical term for Antichriſt, which I might ſhew in many more places; but I ſhall ſhew
+it agreeable to the ſtyle of Chriſt too and of his Apoſtles.</p>
+            <p>
+               <hi>Maroum,</hi> as every Lexicon will ſhew ye, ſig<g ref="char:EOLhyphen"/>nifies him that exalts himſelf on
+high. Now this is the very diſtinctive term that <hi>Chriſt</hi> and S. <hi>Paul</hi> have
+uſed for Antichriſt. Chriſt, <hi>Luk.</hi> 14.11. <hi>Whoſoever exalteth himſelf, ſhall
+be abaſed;
+<pb n="17" facs="tcp:65085:12"/> and he that humbleth himſelf, ſhall be exalted.</hi> Which, though it
+obviouſly be underſtood of every proud or humble man; yet is primarily to be underſtood of
+the Exaltation of Chriſt, becauſe of his voluntary Humility: and of the deſtruction of
+Antichriſt, becauſe of his proud Uſurpations. <hi>Paul</hi> following the ſtyle of
+Chriſt, ſpeaks plainly of Antichriſt, and calls him the <hi>Maroum,</hi> 2 Theſſ. 2.4.
+<hi>Who exalteth himſelf above all.</hi> This is, the <hi>Maroum, The Lord of Rome,</hi> who has
+made himſelf Supreme, that is, <hi>Maroum,</hi> ex<g ref="char:EOLhyphen"/>alted over all.</p>
+            <p>What need we ſay more? We have ſaid this to ſatisfie Criticks in Grammar and Style. But if
+any man be not ſatisfied with this; we have yet an undenyable Argument, that <hi>Ma<g ref="char:EOLhyphen"/>roum, the
+Lord of Rome</hi> is. The Antichriſt: and that <hi>Maroum</hi> is his Name; Even the Argu<g ref="char:EOLhyphen"/>ment of
+the Holy Ghoſt, <hi>Rev.</hi> 13.18. <hi>His Number is ſix hundred threeſcore and ſix.</hi>
+We ſhall ſhew this ſo clearly, that no ſcruple can re<g ref="char:EOLhyphen"/>main; and you ſhall ſee, that
+<hi>here is Wiſdom,</hi> even the Wiſdom of God, to preſerve his Truth in a Word: and here is
+Underſtanding without errour, to count the Number of the Beaſt. And that ye may know, how plain
+it is to be count<g ref="char:EOLhyphen"/>ed, I ſhall give firſt an Example of the like work.</p>
+            <p>
+               <pb n="18" facs="tcp:65085:13"/>As it is foretold of Antichriſt, that the Num<g ref="char:EOLhyphen"/>ber of his Name ſhall be 666.
+ſo was it fore<g ref="char:EOLhyphen"/>told of Jeſus, that the Number of his Name ſhould be 888. See we then how the
+Name of Jeſus makes up that number of 888. and then if the Name <hi>Maroum</hi> make up in like
+manner the Number of 666. then our work is done. The Name of Jeſus in the Greek tongue has ſix
+letters, ι, η, δ, ο, υ, ς</p>
+            <p>Theſe ſix letters make the Number of 888, thus: ι, 10. η, 8. δ, 200. ο, 70.
+υ, 400. ς, again, 200. Theſe put together, make 888. 200, and 200, and 400, make 800.
+and 70, and 10, make 80. and the η 8.</p>
+            <p>Even ſo does this Name of <hi>Maroum</hi> make the Number of 666. For it contains originally,
+as we ſhewed ye, four letters, <hi>M, R, V, M.</hi> no more, and no leſs. Now in the Hebrew
+account, <hi>M.</hi> ſtands for forty, <hi>R.</hi> as the twentieth letter in Order, is twenty;
+See <hi>Pſal.</hi> 119.123. the twentieth part: there's ſixty of our Num<g ref="char:EOLhyphen"/>ber in the two firſt
+letters. <hi>V.</hi> is the ſixth letter in the Alphabet, and makes the odd 6; and <hi>M.</hi>
+final, that is, <hi>M.</hi> as it is ſhapen in the end of a word, for ſo in the Hebrew it has a
+pe<g ref="char:EOLhyphen"/>culiar ſhape, ſtands alwayes for ſix hundred: So ye have the whole Number of the Beaſt
+666.
+<pb n="19" facs="tcp:65085:13"/> in the Name of <hi>Maroum;</hi> juſt as ye had 888. in the Name of Jeſus.
+Thus you ſee the Pro<g ref="char:EOLhyphen"/>phecy of <hi>John</hi> fulfill'd concerning the Number of the Name of
+Antichriſt; after the very ex<g ref="char:EOLhyphen"/>ample, as the Prophecy of the <hi>Sybilla</hi> was fulfilled
+concerning the Number of the Name of Jeſus. In both you ſee the Wiſdom of God, that can
+preſerve the Truth, and foretell things to come in a ſingle Name: and you ſee in both
+under<g ref="char:EOLhyphen"/>ſtanding given to men to count the Myſteri<g ref="char:EOLhyphen"/>ous Numbers of Myſterious Perſons;
+Chriſt the Great Witneſs of Truth, and Antichriſt the great Witneſs of Deceit.</p>
+            <p>There remains a petty Scruple or two: 1. Why was not the Name of Antichriſt to be number'd in
+Greek, as the Name of <hi>Jeſus?</hi> The anſwer is eaſie. The Uniformity is better as it is.
+For as Chriſt an Hebrew, was num<g ref="char:EOLhyphen"/>ber'd in Greek, ſo Antichriſt a Roman, is number'd in
+Hebrew. If ye ask, why not an Hebrew in Hebrew; and a Roman in Roman? I anſwer, Firſt, perhaps
+to prevent ſuſpicion; leſt if the Names had been number'd in their Mother-tongues, it might
+be taken for an In<g ref="char:EOLhyphen"/>vention of their own Mother or Countrey. There is ſecondly, another good
+reaſon. Chriſt was ſent to the Nations, to teach them the
+<pb n="20" facs="tcp:65085:14"/> Wiſdom of God, therefore his Name was to be numbred in the language of the
+Wiſdom of the Nations, which then was the Greek tongue: But now Antichriſt is the great
+Wit<g ref="char:EOLhyphen"/>neſs and Lord of <hi>Babylon,</hi> ſpiritually ſo called; therefore his Name is number'd
+in the Baby<g ref="char:EOLhyphen"/>lonian Language; for as we ſaid, <hi>Maromah</hi> in both ends, and <hi>Maroum</hi>
+too in the firſt Syllable, are Hebrew words in a Babylonian dialect. So all things are
+proper.</p>
+            <p n="2">2. A Scruple may be made. Why is not Antichriſts Name to be number'd an Individu<g ref="char:EOLhyphen"/>al
+Name; ſeeing the Name of Jeſus is indivi<g ref="char:EOLhyphen"/>dual? I anſwer, There is but One Chriſt
+In<g ref="char:EOLhyphen"/>dividual; and therefore his Name muſt needs be individual. But Antichriſts are many: but the
+greateſt of Antichriſts is the Lord of <hi>Rome,</hi> that <hi>Lord of Rome which exalteth
+himſelf as Su<g ref="char:EOLhyphen"/>preme above all;</hi> and becauſe there is but One at a time, though many at once
+may fight for it; the many, that ſucceed one another, are by ſucceſſion made One, but
+cannot be One individual; ſo no individual name of Antichriſt can be number'd, but a Specifical
+Name. Now the moſt ſpecifical Name that can be thought on, is this of <hi>Maroum,</hi> or
+<hi>Maromah,</hi> or <hi>Lord of Rome;</hi> which is alſo to ſay, <hi>Lord ex<g ref="char:EOLhyphen"/>alted
+<pb n="21" facs="tcp:65085:14"/> over all;</hi> Or <hi>Lord ſupreme.</hi> Therefore, we have rightly choſen
+this Name to number; and we know we have choſen aright. For as we know the Name of Chriſt by
+the Number of 888. ſo we know the Name of Antichriſt by the revealed Number of 666. Reſt we
+then here, for I know not the leaſt ſcruple remaining. Yea, I know, whoever ſhall ſeek
+another Name or Number of the Beaſt, ſhall ſeek in vain. Nothing is here of my own making.
+Neither Word nor Signifi<g ref="char:EOLhyphen"/>cation, nor Letter, nor Number. The Word of <hi>Maroum</hi> is of the
+Prophets. <hi>Iſa.</hi> 24, 25, 26, <hi>chapt.</hi> The Signification of the Word, you may ſee
+in <hi>Buxtorfius;</hi> and in every Hebrew Lexicon. The Letters and the Number of the Letters you
+have in every Hebrew Alphabet: but moſt diſtinctly and prophetically in <hi>Pſal.</hi> 119.
+My work was onely this, to underſtand what I read, and ſo to collect it as to give you the
+underſtanding. I doubt not but more time will give both you and me more underſtanding. But God
+gave me this, and I hope will give as much more as is good for me: and this is enough for this time
+of this matter. Let the Text be read thus: <hi>The Witneſs of Truth de<g ref="char:EOLhyphen"/>livereth ſouls: But
+Maroum, The Lord of Rome
+<pb n="22" facs="tcp:65085:15"/> speaketh lies.</hi> Then a word or two to that <hi>Epi<g ref="char:EOLhyphen"/>thet, Speaketh
+lies.</hi>
+            </p>
+            <p>The Lord of <hi>Rome</hi> ſpeaketh Lies two wayes; By Himſelf, and by his Emiſſaries.
+Firſt, The Lord of <hi>Rome</hi> ſpeaketh Lies by himſelf. We ſhall not undertake to give
+ye the Number of his Lies, as we gave ye the Number of his Name; for we might better give the
+Number of the Starres, or of the Sand of the Ocean-ſhore. But, as the Starres are reduced to
+Claſſes, ſo ſhall we reduce the Lies of the Lord of <hi>Rome</hi> to three Claſſes;
+that is, of Doctrine, of Diſcipline, and of Manners.</p>
+            <p>The firſt and fundamental Lye of the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Maromah</hi> is, That he has
+aſſerted him<g ref="char:EOLhyphen"/>ſelf <hi>Infallible,</hi> and that he cannot erre when he ſpeaks in his
+<hi>Chair.</hi> This is the Mother of Lyes, and he the Father. And with this fa<g ref="char:EOLhyphen"/>mous
+<hi>Infallibility</hi> he hath begot an innumerable Iſſue of Lies, and hath put them out to be
+eſpouſed by all Nations; and many Nations have been deceiv'd with them theſe many Ages: But
+thanks be to God and to our Wit<g ref="char:EOLhyphen"/>neſs of Truth, Jeſus Chriſt; for he by his Go<g ref="char:EOLhyphen"/>ſpel has
+diſcover'd theſe lyes unto us, and has deliver'd our Souls from this Witneſs of De<g ref="char:EOLhyphen"/>ceit, Our
+Witneſſes of Truth, which the Lord
+<pb n="23" facs="tcp:65085:15"/> hath raiſed up from time to time in the Re<g ref="char:EOLhyphen"/>formed Churches, have confounded
+<hi>Maromah</hi> in thouſands of Controverſies. We at Preſent deny his Aſſertion of
+Infallibility, and that not from our own mouth, but from the Mouth of the Holy Ghoſt, who
+ſpeaking by <hi>Solomon,</hi> hath ſaid unto us, <hi>Maromah, The Lord of Rome speaketh lies:
+Ergo,</hi> is not Infallible.</p>
+            <p n="2">2. The Great and Fundamental Lye of his Diſcipline is this, That he is the Vicar and
+Subſtitute of Chriſt, The Supreme Lord over the Chriſtian World, exalted by Chriſt over
+Kings and Princes, and over all that is called God on Earth. With this his Lye he has got the
+Crowns of Kings and Emperours into his hand, and has brought Kings and Emperours under his feet,
+and diſpoſeth of them and of their Kingdoms as he pleaſeth, giveth the Life of Kings into the
+hands of Murderers, and the Murderers of Kings are his Martyrs; Maſſacres of Nations are his
+Holy Leagues, and the moſt helliſh Plots are the moſt meri<g ref="char:EOLhyphen"/>torious Works of his beſt
+beloved Sons and Subjects. But Now this Lye is laid open to the World. <hi>Maromah</hi> is proved
+to be the De<g ref="char:EOLhyphen"/>ceitful Witneſs directly oppoſite to the Wit<g ref="char:EOLhyphen"/>neſs of Truth which is Chriſt,
+and therefore
+<pb n="24" facs="tcp:65085:16"/> the Antichriſt, and not the Vicar of Chriſt. Yea, his own mouth betrayes
+him; for he profeſſedly exalts himſelf above all on Earth; Therefore he's the
+<hi>Maroum,</hi> whoſe Number is 666. And of him it is written, <hi>Maromah speak<g ref="char:EOLhyphen"/>eth
+lies.</hi>
+            </p>
+            <p n="3">3. The Great and fundamental Lye of his Manners is this, that he ſtyles himſelf,
+<hi>The moſt Holy,</hi> and <hi>The moſt Humble</hi> too, even <hi>The Ser<g ref="char:EOLhyphen"/>vant of the Servants
+of God.</hi> But certainly he's the moſt unholy and the moſt proud; the moſt deſtructive
+and the moſt abominable evil among men; and therefore termed by the Holy Ghoſt, not a Man but a
+Beaſt. And the Biſhops of <hi>Rome,</hi> ſince they were <hi>Maroums,</hi> that is, ſince
+they uſurp'd Supremacy, have been the moſt cruel, bloody, moſt filthy and abominable Beaſts
+in Nature; that the name of Beaſt was never ſo agreeable to any thing on Earth, as to the Popes
+of <hi>Rome.</hi>
+            </p>
+            <p>
+               <hi>Gregory</hi> the Great was the firſt who took that Title of <hi>The Servant of the
+Servants of God:</hi> not in a ſpirit of Humility, but of the greateſt Pride and Envy. For, the
+Emperour prefer<g ref="char:EOLhyphen"/>ring <hi>John Jejunator</hi> Patriarch of <hi>Conſtantinople</hi> be<g ref="char:EOLhyphen"/>fore
+<hi>Gregory,</hi> and giving <hi>John</hi> the title of <hi>Uni<g ref="char:EOLhyphen"/>verſal Biſhop: Gregory</hi>
+oppenly oppoſing <hi>Johns</hi>
+               <pb n="25" facs="tcp:65085:16"/> Supremacy, took it upon himſelf the beſt way he could, by the equivocal
+Title of <hi>Servant of the Servants of God.</hi> In the mean time neglect<g ref="char:EOLhyphen"/>ing no Stratagems to
+promote his Supreme Authority. For which ſole end, he ſent his Agents, <hi>Auſtin</hi> and
+the other Monks into <hi>England,</hi> to lay the foundation of his Uſurpations there. So that of
+a truth <hi>Gregory</hi> was the Firſt <hi>Maroum,</hi> at leaſt in plot and deſign: but his
+Succeſſour <hi>Boniface</hi> the third, was an open and profeſt One, who obtain'd of
+<hi>Phocas</hi> Emperour the Title of <hi>Supreme Biſhop and Lord of the Church.</hi> And the
+Uſurpation had ſuch ſucceſs, that <hi>Boniface</hi> the Eighth, in ſolemn Jubilee,
+Attired one day in <hi>Pontificalibus,</hi> another in <hi>Imperialibus,</hi> with two Swords
+before him, made Proclamation that he was Supreme Lord and Emperour of the Whole World, and
+Accurſed all the Kings of the Earth that ſubjected not their Kingdoms to him.</p>
+            <p>So egregious is that Lye of the Title of <hi>Moſt Holy,</hi> and of <hi>the Servant of the
+Servants of God,</hi> that ſince the time of that moſt ambi<g ref="char:EOLhyphen"/>tious Hypocrite <hi>Gregory</hi>
+the Great, there has not reign'd One Pope but what has been a monſtrous Beaſt in Manners; All
+monſtrous in Pride, Covetouſneſs, Rebellion, Deceit, Uſur<g ref="char:EOLhyphen"/>pation
+<pb n="26" facs="tcp:65085:17"/> and Impoſtures: And Moſt, profeſt Atheiſts, Whoremongers, Sodomites,
+Simoni<g ref="char:EOLhyphen"/>acks, Blood-ſhedders, Incendiaries, ſo unwea<g ref="char:EOLhyphen"/>ried in plotting and raiſing Warres among
+Chriſtian Kings and Princes, murdering the Fathers by the Sons, and Brother by Brother,
+Soveraigns by Subjects, and one Neighbour<g ref="char:EOLhyphen"/>ing Prince by another; that we read in Hi<g ref="char:EOLhyphen"/>ſtory more
+Chriſtian and Royal Blood ſhed by the Popes of <hi>Rome,</hi> than ever was ſhed by all the
+Enemies of the Church of God, ſince God had a Church on earth. While then the Pope acts thus
+moſt bloodily and moſt beaſtly, and yet calls himſelf <hi>Moſt Holy:</hi> We anſwer
+from the Holy Ghoſt; <hi>Maromah; The Lord of Rome ſpeaketh lies.</hi>
+            </p>
+            <p>Laſtly, He lyeth by his Emiſſaries. For theſe are taught and teach; That to Lye and
+Equivocate is their Duty, when it ſerves their Maſters turn. Therefore they Equivocate in their
+Names, and Habits, and Profeſſions, changing them every day, and often in a day, as the weather
+of their Affairs changeth. They equivocate in their Doctrines, reſolving their Caſes and
+Controverſies, as may ſerve to en<g ref="char:EOLhyphen"/>gage all manner of Proſelytes. They Equivo<g ref="char:EOLhyphen"/>cate at the Barr
+of Juſtice, holding Murders
+<pb n="27" facs="tcp:65085:17"/> and Maſſacres to be juſt, and no Oaths ſo lawful as ſuch as ſerve
+to conceal their Plots. They Equivocate on their private death-beds, and give up their Ghoſt with
+Oaths of Equi<g ref="char:EOLhyphen"/>vocation; as is certain of <hi>Treſham</hi>'s Caſe in King <hi>James</hi> his
+time, acknowledged by <hi>Garnet</hi> himſelf. What wonder then if they dye on the Gallows with
+Oaths of Equivocation! We are ſure the Murderers of Sir <hi>Edmundbury God<g ref="char:EOLhyphen"/>frey</hi> dyed with
+Lyes, or (which is the moſt deceitful kind of lyes) with Equivocation and horrid Execration
+denying that bloody Fact. We are ſure they dyed Lying. What wonder if the Plotters dyed in a
+lying or equivocating Denyal of the Plot. We are ſure <hi>Ireland</hi> dyed Lying; why not the
+Reſt! eſpecially <hi>Gawen,</hi> who in his laſt words tells ye of <hi>Material
+Pro<g ref="char:EOLhyphen"/>locution,</hi> a new and fine way of Deceit; when a Jeſuit may ſpeak what words he will;
+but means nothing but the ſound of the words, but leaves the hearer to give what ſignifica<g ref="char:EOLhyphen"/>tion
+he will, and to deceive himſelf if he will, <hi>Si vult decipi, decipiatur. I think it
+neceſſary,</hi> ſays the Jeſuit, <hi>to ſpeak theſe words, but I mean no ſuch
+thing.</hi> Thus the Life and Death of an Emiſſary of <hi>Rome,</hi> is Lying, Equivocation,
+or, as the Martyrs of lyes have taught us, <hi>Mate<g ref="char:EOLhyphen"/>rial
+<pb n="28" facs="tcp:65085:18"/> Prolocution.</hi> As Chriſt is the great Author of Truth, and came to bear
+witneſs to the Truth, and to ſave all by the Truth: Even ſo it is apparent, that the Lord of
+<hi>Rome</hi> walks in direct Oppoſition to Chriſt; is the great Author of Deceit, and by all
+methods of Ly<g ref="char:EOLhyphen"/>ing, ſeeks to deceive all. Therefore the Lord of <hi>Rome</hi> is the Antichriſt.
+And of him in op<g ref="char:EOLhyphen"/>poſition to the Chriſt, <hi>Solomon</hi> propheſied: <hi>A true Witneſs
+delivereth Souls, but</hi> Maromah, <hi>the Lord of Rome ſpeaketh Lies.</hi>
+            </p>
+            <div type="prayer">
+               <head>Let us pray.</head>
+               <p>
+                  <hi>O</hi> God, who haſt laid up great trea<g ref="char:EOLhyphen"/>ſures of Wiſdom in the Scriptures of thy holy
+Prophets, and revealeſt them in due ſeaſon to thoſe that ſeek the Truth in love; [So by
+the Books of <hi>Jeremy</hi> thou gaveſt <hi>Daniel</hi> underſtanding to count the Number of
+the years of the time of thy Mercy to <hi>Jeruſalem:</hi> and now by the Books of thy Prophets
+<hi>Solomon</hi> and <hi>Iſai<g ref="char:EOLhyphen"/>ah,</hi> thou haſt given us the underſtanding
+<pb n="29" facs="tcp:65085:18" rendition="simple:additions"/> to count the Number of the Name of the Witneſs of Deceit, who
+deceiveth the Na<g ref="char:EOLhyphen"/>tions:] We bleſs, and praiſe, and mag<g ref="char:EOLhyphen"/>nifie thy Name, and beſeech thee for
+thy Names ſake, let not the Miracles of thy Mercy be loſt upon us, and continue gra<g ref="char:EOLhyphen"/>ciouſly
+ſtill to preſerve us, our King and Nations, from the Plots and Deceits of the Wicked: that thy
+Name may be great, that thy Goſpel may prevail, in this, and all the Kingdoms of the Earth, by
+the Merits of the Great Witneſs of Truth, <hi>JESUS CHRIST. Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:65085:19" rendition="simple:additions"/>
+            <p>
+               <hi>MIrmah,</hi> Or, The <hi>Deceitful Witneſs:</hi> A Prophecy of <hi>Solomon,</hi> now
+firſt and ſeaſonably diſcover<g ref="char:EOLhyphen"/>ed; wherein the Deceitful Witneſſes of <hi>Rome</hi> are
+made manifeſt to all; And our <hi>Proteſtant</hi> Witneſſes are Juſtified, Praiſed and
+Defended; chiefly the late happy Diſcoverers of the <hi>Romiſh Plots and Deceits.</hi> Being a
+Sermon Preached <hi>Novemb.</hi> 5. on <hi>Prov.</hi> 14.25. By <hi>William Ramſay</hi> Lecturer
+in <hi>Iſtleworth,</hi> and Chap<g ref="char:EOLhyphen"/>lain to the Right Honourable <hi>Thomas</hi> Earl of
+<hi>Oſſory.</hi> Sold by <hi>Benjamin Billingſley</hi> at the Printing-Preſs with<g ref="char:EOLhyphen"/>in the
+Southweſt <hi>Piazza</hi> of the <hi>Royal Exchange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
